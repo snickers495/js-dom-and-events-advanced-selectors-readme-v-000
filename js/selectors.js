@@ -1,7 +1,8 @@
 // declare your functions here...
 function paragraphSelector(){
-  $('p')
+  return $('p')
 }
 function lastImageSelector(){
-  
+  let end = $('img').length - 1
+  return $()
 }
